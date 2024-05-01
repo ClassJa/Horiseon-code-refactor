@@ -51,6 +51,9 @@ p {
     margin-bottom: 32px
 }
 
+h2 {
+    margin-bottom: 32px;
+}
 
 .float-left {
     float: left;
