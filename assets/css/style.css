@@ -46,10 +46,6 @@ img {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -132,4 +128,7 @@ img {
     background-position: center;
 }
 
+#seo-coloring {
+    color: #d9dcd6;
+}
 /* Debug: */
