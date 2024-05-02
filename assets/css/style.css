@@ -104,6 +104,11 @@ footer {
     max-height: 200px;
 }
 
+.aside-styling {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
 
 #footer-h2 {
     font-size: 20px;
@@ -127,8 +132,3 @@ footer {
 #seo-coloring {
     color: #d9dcd6;
 }
-
-#aside-color-style {
-    color: #ffffff;
-}
-/* Debug: */
